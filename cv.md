@@ -1,6 +1,7 @@
 # Paul Dashkevich
 
 ## About Me
+Hi! I'm 22 years old junior javascript developer. My life goal is constant learning of something new and interesting. I don't have any work experience at the moment, but I have successfully completed several projects during my training. My strengths are in quick learning, critical thinking and discipline. I have good interpersonal skills, so I'm good at working in a team.
 
 ## Skills:
 * HTML, CSS
